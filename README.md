@@ -1,3 +1,3 @@
-# clase-01
+#### Trabajo Final de programación en R para el curso Data Analyst en BEDU
 
-print("hola Mundo")
+# Los datos disponibles para el histórico es a partir del 3 de mayo de 2019, y para la información restante son de 30 días. Podrás encontrar el precio promedio diario de la gasolina (regular, premium y del diésel), el precio promedio por municipio y los precios de estos tres tipos de combustible para más de 400 gasolineras en los municipios antes mencionados. Las coordenadas de las gasolineras también se obtienen de la CRE y su ubicación real puede diferir algunos metros de lo que señala el mapa que se muestra en la parte inferior de esta página. Instituo de Información Estadística y Geográfica de Jalico. los seis principales municipios del AMG: Guadalajara, Tlajomulco, Tlaquepaque, Tonalá, Zapopan y El Salto. La información se actualiza de manera diaria por las mañanas con información de la Comisión Reguladora de Energía (CRE).
